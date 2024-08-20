@@ -25,10 +25,14 @@ EDU Chain by Open Campus is an L3 Rollup Chain on the Arbitrum Orbit Stack. The 
 #### NFT Contract Address: 0xf8C248a0C3Cc110f178452c028449Fd91C2D716D
 #### Game Contract Address: 0x9cCed07521c7570e771c9b1948Ea74C8ab32F73e
 #### Marketplace Contract Address: 0xAc1FDE6ba7871Fe1AD5DB8afA16dF75c2D7E937D
-https://opencampus-codex.blockscout.com/address/0xAc1FDE6ba7871Fe1AD5DB8afA16dF75c2D7E937D<br>
+https://opencampus-codex.blockscout.com/address/0xf8C248a0C3Cc110f178452c028449Fd91C2D716D<br>
 https://opencampus-codex.blockscout.com/address/0x9cCed07521c7570e771c9b1948Ea74C8ab32F73e<br>
 https://opencampus-codex.blockscout.com/address/0xAc1FDE6ba7871Fe1AD5DB8afA16dF75c2D7E937D<br>
 
+![image](https://github.com/user-attachments/assets/3d10f823-404a-4fe6-94dd-566526c1f437)
+
+![image](https://github.com/user-attachments/assets/92a5371b-99f7-40a3-bd30-76883c4f3a0b)
+![image](https://github.com/user-attachments/assets/f19ee5ce-2c28-49e6-bcbf-697c12c5a87a)
 
 
 ## Features
